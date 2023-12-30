@@ -1,2 +1,2 @@
 # Dicee-Challenge-
-a Dice game using Java Script and HTML
+A Dice game using Java Script and HTML
